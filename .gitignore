@@ -1,0 +1,16 @@
+# Archivos de sistema macOS
+.DS_Store
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Archivo temporal de VSCode
+tempCodeRunnerFile.py
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de tareas o JSON locales
+tareas.json
